@@ -10,8 +10,8 @@ I specialize in creating gameplay mechanics, creative narratives for games and a
 | Game | Description | Links |
 | :--- | :--- | :--- |
 | **Untitled** | A demo game for a Halloween Workshop | [📁 Code Repo](https://github.com/Lady-Rachel-of-Eleum-Loyce/DemoGameHalloweenWorkshop) |
-| **Heart Search** | A simple game where you have to hit several triggers to unlock a final room and then exit within a timer. | [📁 Code Repo]([https://github.com/your-username/game2](https://github.com/Lady-Rachel-of-Eleum-Loyce/HeartSearch)) |
-| **File 0411** | A experimental game exploring the question of how many mechanics can you include in a game with only one button as an input. | [🎮 Play WebGL]([https://your-username.github.io/game3](https://lady-rachel-of-eleum-loyce.github.io/File-0411/) Note: Build is a WIP. It will be finished within a week however.) • [📁 Code Repo]([https://github.com/your-username/game3](https://github.com/Lady-Rachel-of-Eleum-Loyce/File-0411)) |
+| **Heart Search** | A simple game where you have to hit several triggers to unlock a final room and then exit within a timer. | [📁 Code Repo]((https://github.com/Lady-Rachel-of-Eleum-Loyce/HeartSearch)) |
+| **File 0411** | A experimental game exploring the question of how many mechanics can you include in a game with only one button as an input. | [🎮 Play WebGL]((https://lady-rachel-of-eleum-loyce.github.io/File-0411/)) Note: Build is a WIP. It will be finished within a week however.) • [📁 Code Repo]((https://github.com/Lady-Rachel-of-Eleum-Loyce/File-0411)) |
 
 ---
 
