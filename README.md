@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
+**Aspiring Game Developer & C# Programmer**
 
-<!--
-**Lady-Rachel-of-Eleum-Loyce/Lady-Rachel-of-Eleum-Loyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in creating gameplay mechanics, creative narratives for games and am mainly familiar with the Unity ecosystem.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+
+| Game | Description | Links |
+| :--- | :--- | :--- |
+| **Untitled** | A demo game for a Halloween Workshop • [📁 Code Repo](https://github.com/Lady-Rachel-of-Eleum-Loyce/DemoGameHalloweenWorkshop) |
+| **Heart Search** | A simple game where you have to hit several triggers to unlock a final room and then exit within a timer. • [📁 Code Repo]([https://github.com/your-username/game2](https://github.com/Lady-Rachel-of-Eleum-Loyce/HeartSearch)) |
+| **File 0411** | A experimental game exploring the question of how many mechanics can you include in a game with only one button as an input. | [🎮 Play WebGL]([https://your-username.github.io/game3](https://lady-rachel-of-eleum-loyce.github.io/File-0411/) Note: Build is a WIP. It will be finished within a week however.) • [📁 Code Repo]([https://github.com/your-username/game3](https://github.com/Lady-Rachel-of-Eleum-Loyce/File-0411)) |
+
+---
+
+## Tech Stack & Skills
+* **Engine & Languages:** Unity, C#, C++, Git / GitHub Desktop, Java, Python
+* **Programming Architecture:** Scriptable Objects, Object Oriented Programming
