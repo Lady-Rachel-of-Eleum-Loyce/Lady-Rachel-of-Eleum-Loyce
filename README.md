@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Rachel 👋
 **Aspiring Game Developer & C# Programmer**
 
 I specialize in creating gameplay mechanics, creative narratives for games and am mainly familiar with the Unity ecosystem.
