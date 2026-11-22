@@ -16,5 +16,5 @@ I specialize in creating gameplay mechanics, creative narratives for games and a
 ---
 
 ## Tech Stack & Skills
-* **Engine & Languages:** Unity, C#, C++, Git / GitHub Desktop, Java, Python
+* **Engine & Languages:** Unity, C#, C++, Java, Python, Javascript
 * **Programming Architecture:** Scriptable Objects, Object Oriented Programming
